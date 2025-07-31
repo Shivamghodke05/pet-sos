@@ -8,6 +8,7 @@ A platform to report lost or injured animals in real-time, connecting users with
 4. Set up a MySQL database and update `db.js` with your credentials.
 5. Run the backend: `npm start`
 6. Run the frontend: `cd client && npm start` (if separated, see below).
+7. edit the `filebase.js` file and replace firebase config with your own firebase config.
 
 ## Features
 - Report lost/injured animals with geolocation or address input.
